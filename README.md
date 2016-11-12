@@ -29,6 +29,7 @@
 
 ### Week 3:
 **Logical Equivalences**	
+
 |Name |	Equivalence|
 | -----:| :-----|
 |Identity laws |<ul><li> p ∧ T ≡ p	<li> p v F ≡ p</ul>|
