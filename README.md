@@ -62,7 +62,8 @@
 ### Week 5:
 
 **Rules of Inference**	
-|Name|	Rule of Inference	|Tautology|
+
+|Type|	Rule of Inference	|Tautology|
 | -----:| -----:|----------:|
 |Modus Ponens	|p, p → q ∴ q	|[p ∧ (p → q)] → q|
 |Modus Tollens|	¬q, p → q ∴ ¬p|	[¬q ∧ (p → q)] → ¬p|
