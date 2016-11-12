@@ -1,10 +1,11 @@
 # dismathportfolio_businosmichael
 
 ### Week 2:
-- I was introduced to Discrete Mathematics and its significance in engineering and the current information society.		
-- The Syllabus was explained for me to know what is to be expected in the course.		
+- I was reintroduced to Discrete Mathematics and its significance in engineering and the current information society.		
+- The Syllabus was explained to us which .		
 - Thinking critically and logically is the goal of the course.
-- Logical Connectives and their respective truth tables.
+- Logical Connectives and their respective truth tables was very similar to general math so it was easy for me to grasp the idea behind it.
+- Basic terms like proof, proposition, axioms, etc... was taught to us
 
 | Logical Symbol | Logical Operator |	Shorthand | Logical Expression |
 | ------------- |:-------------:| -----:| -----:|
@@ -17,14 +18,14 @@
 
 - **Propositional Logic**
 	- deals with proposition as a whole
-  - Examples of the application of propositional logic was taught to us which made it more interesting to learn.
+  	- Examples of the application of propositional logic was taught to us which made it more interesting to learn.
 	- as p → q 
 		- Inverse ≡ ¬p → ¬q
 		- Converse ≡ q → p
 		- Contrapositive ≡ ¬q → ¬p  
 
 - Another Logical tool that can be used to prove propositions are **logical equivalences**.
-- I was introduced to conditional statements and their importance to the course.
+- I learned to conditional statements and their importance to the course.
 
 
 ### Week 3:
@@ -57,7 +58,6 @@
 	- Quantifiers has two kinds: Universal and Existensial.
 	- Universal (∀x) - "for all" meaing it should be true to all values.
 	- Existensial (∃x) - "there exists", meaning it is true to atleast one value. 
-	- ***tearingupinside***
 
 ### Week 5:
 
@@ -85,5 +85,5 @@
 |Vacuous Proof (¬p → (p → q))| 1. Show that p is false, because (p → q) must be true when p is false.|
 |Trivial Proof (q → (p → q))|	1. how that q is true, it follows that (p → q) must also be true.		|
 
-
-
+##Quiz Time!!! 
+	***tearingupinside***
